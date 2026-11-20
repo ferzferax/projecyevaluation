@@ -1,0 +1,8 @@
+{
+  "name": "ALL-IN Logística — Valuation Tecnológico",
+  "description": "Portal executivo de auditoria tecnológica, simulador de ROI e estúdio de apresentação Google Slides para a ALL-IN Logística e Transportes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
